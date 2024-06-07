@@ -1,0 +1,2 @@
+1,Zoológico Central,Ciudad A,2000-05-20,2
+   1,León Africano,Panthera leo,6,195.0,true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468256011085",
+    "project_id": "jgfb-swgr1-2024a",
+    "storage_bucket": "jgfb-swgr1-2024a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468256011085:android:1834f355b397bbf3927d04",
+        "android_client_info": {
+          "package_name": "com.example.a2024swgr1jgfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGbXPYiGRnLLhe__xE3c7lpPCwAXDU46g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

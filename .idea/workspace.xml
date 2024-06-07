@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f822d6-8ad3-46df-bf09-ec058637de52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/kotlin/models/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/kotlin/models/Zoologico.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/kotlin/services/AnimalService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/kotlin/services/ZoologicoService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/Deber_Zoologico/src/main/resources/zoologicos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Kotlin/inicio/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/java/com/example/a2024swgr1jgfb/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-en-land/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-en-land/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-en-port/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-en-port/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-es-land/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-es-land/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-es-port/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Clases/app/src/main/res/values-es-port/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hUlbF9ZgBqTfnfAFL4vYvCEpJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/escritorio.virtual11/Documents/SW-GR1-fuertes-bustos-jose-gabriel/01-Clases"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f822d6-8ad3-46df-bf09-ec058637de52" name="Changes" comment="" />
+      <created>1717656606365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717656606365</updated>
+      <workItem from="1717656614349" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
